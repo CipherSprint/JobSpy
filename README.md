@@ -21,7 +21,7 @@ Updated for release v1.1.3
 ### Installation
 
 ```
-pip install python-jobspy
+pip install git+https://github.com/CipherSprint/JobSpy
 ```
 
 _Python version >= [3.10](https://www.python.org/downloads/release/python-3100/) required_
